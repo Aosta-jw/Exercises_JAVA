@@ -13,6 +13,7 @@ public class Test_ForknPull {
 		System.out.println("Can you find me?");
 		System.out.println("Can you find me?");
 		System.out.println("Can you find me?");
+		System.out.println("yes!");
 		
 	}
 
